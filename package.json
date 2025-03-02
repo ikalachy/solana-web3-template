@@ -4,7 +4,6 @@
   "description": "Template for Solana Web3 Apps",
   "author": "Nightly Labs",
   "license": "MIT",
-  "private": false,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -13,7 +12,8 @@
   },
   "dependencies": {
     "@nightlylabs/wallet-selector-solana": "0.3.11",
-    "@react-spring/three": "9.1.1",
+    "@react-spring/core": "^9.7.5",
+    "@react-spring/three": "^9.7.5",
     "@react-spring/web": "9.1.1",
     "@react-three/drei": "4.1.8",
     "@react-three/fiber": "6.0.14",
