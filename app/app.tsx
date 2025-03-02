@@ -13,7 +13,6 @@ export default function Home() {
       <StickyHeader />
       <Torus />
       <Toaster position='bottom-left' richColors />
-      <Socials />
       <Loader />
     </>
   )

@@ -7,8 +7,8 @@ const Background: React.FC = () => {
       style={{ pointerEvents: 'none', backgroundColor: '#272730' }}
     >
       <div className='flex justify-center items-center h-screen'>
-        <div className='text-white' style={{ fontSize: '12em', fontWeight: 800 }}>
-          Solana
+        <div className='text-white' style={{ fontSize: '9em', fontWeight: 800 }}>
+          Mentor AI
         </div>
       </div>
     </div>
